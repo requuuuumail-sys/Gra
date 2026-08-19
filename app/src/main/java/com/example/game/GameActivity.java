@@ -168,7 +168,7 @@ public class GameActivity extends AppCompatActivity {
             }
         }
 
-        private void draw(Canvas canvas) {
+        public void draw(Canvas canvas) {
             // Draw background
             canvas.drawColor(Color.parseColor("#90EE90"));
 
