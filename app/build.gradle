@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace "com.zebuild.game"
     namespace 'com.example.game'
     compileSdk 34
 
