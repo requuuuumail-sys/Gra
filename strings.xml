@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZeBuild</string>
+    <string name="play_button">PLAY</string>
+    <string name="shop_button">SHOP</string>
+    <string name="settings_button">SETTINGS</string>
+    <string name="back_button">BACK</string>
+    <string name="add_building">Add Building</string>
+    <string name="upgrade_building">Upgrade</string>
+    <string name="gold_label">Gold</string>
+    <string name="elixir_label">Elixir</string>
+    <string name="level">Level</string>
+    <string name="farm">Farm</string>
+    <string name="house">House</string>
+    <string name="barracks">Barracks</string>
+    <string name="tower">Tower</string>
+    <string name="wall">Wall</string>
+    <string name="gold_vault">Gold Vault</string>
+</resources>

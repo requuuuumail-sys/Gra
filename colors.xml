@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2E7D32</color>
+    <color name="colorPrimaryDark">#1B5E20</color>
+    <color name="colorAccent">#FFC107</color>
+    
+    <color name="game_background">#7CB342</color>
+    <color name="button_primary">#388E3C</color>
+    <color name="button_secondary">#1976D2</color>
+    <color name="button_tertiary">#D32F2F</color>
+    
+    <color name="text_primary">@android:color/black</color>
+    <color name="text_secondary">@android:color/darker_gray</color>
+    
+    <color name="gold_color">#FFD700</color>
+    <color name="elixir_color">#9C27B0</color>
+</resources>
